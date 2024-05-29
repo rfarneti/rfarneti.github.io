@@ -13,7 +13,7 @@ author_profile: true
 
  
 <p align="center">
-  <img src="/images/SOFIA.png" alt="SOFIA" style="width:60%;
+  <img src="/images/SOFIA.png" alt="SOFIA" style="width:30%;
   text-align:center"/>
 <figcaption>   </figcaption>
 </p>
