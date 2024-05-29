@@ -15,6 +15,10 @@ urlcolor: blue
 
 ### Articles submitted for publication
 
+* Prigent, A., *Farneti, R.*: An assessment of equatorial Atlantic interannual variability in OMIP simulations. Submitted to **Ocean Sciences**
+
+* Arumi-Planas, C., S. Dong, R. Perez, M. Harrison, *R. Farneti*, A. Hernandez-Guerra: A multi-data set analysis of the freshwater transport by the Atlantic Meridional Overturning Circulation at nominally 34.5S. Submitted to **Journal of Geophysical Research: Oceans**
+
 ### 2024
 
-* [44] Huguenin, M., *Holmes R.*, Spence, P. and England, M. [Subsurface warming of the West Antarctic continental shelf linked to El Nino-Southern Oscillation](https://doi.org/10.1029/2023GL104518). **Geophysical Research Letters**, 51, e2023GL104518.
+* [] Molteni, F., F. Kucharski, *R. Farneti* [Multi-decadal pacemaker simulations with an intermediate-complexity climate model](https://doi.org/10.5194/wcd-5-293-2024). **Weather Clim. Dynam.**, 5, 293-322.
