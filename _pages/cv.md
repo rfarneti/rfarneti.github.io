@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[`Download 2-page CV`](/files/RiccardoFarnetiCV.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+___
+* 2011-2016 __Doctor Of Philosophy, Stanford University__, Physical Oceanography, Department of Earth System Science, GPA: 4.084/4
+* 2006-2010 __Bachelor of Philosophy (Honours), Australian National University__, Physics, First class honours 95/100 with *University medal*
+* 2008-2009 __Study Abroad Program, University of California Santa Barbara__, Physics, GPA: 3.78/4
+* 2004-2005 Year 12 Certificate, Lake Ginninderra College, Canberra, Australia, University Admissions Index (UAI): 99.6/100
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Academic Experience
+___
+* 2023+ __Climate Scientist__, Australian __Bureau of Meteorology__, Sydney.
+* 2021-2023 __ARC Discovery Early Career Research Award (DECRA) Fellow, University of Sydney__, School of Geosciences, Faculty of Science
+* 2018-2021  __Senior Research Associate, University of New South Wales__ School of Mathematics and Statistics and Climate Change Research Centre
+* 2016-2017 __Research Associate, University of New South Wales__ Physical mechanisms governing interannual and decadal variability in the tropical Pacific ocean. Ocean heat uptake, tropical overturning. Abyssal mixing and diapycnal upwelling. Supervisors: Professor's Matthew England and Trevor McDougall
+* 2011-2016 __Graduate Researcher, Stanford University__ Submesoscale processes, equatorial dynamics, turbulent mixing, ocean modelling.
+* 2010-2011 __Research Assistant, Australian National University__ (6 months) Computational polymer physics, two published papers.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
