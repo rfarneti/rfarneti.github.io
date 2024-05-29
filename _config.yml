@@ -21,7 +21,7 @@ repository               : "rfarneti/rfarneti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./files/profile.png"
   name             : "Riccardo Farneti"
   pronouns         : # example: "she/her"  
   bio              : "Physical Oceanographer and Climate modeller"
