@@ -1,9 +1,8 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-
+urlcolor: blue
 ---
 
 {% if site.author.googlescholar %}
@@ -12,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Journal Articles
+
+### Articles submitted for publication
+
+### 2024
+
+* [44] Huguenin, M., *Holmes R.*, Spence, P. and England, M. [Subsurface warming of the West Antarctic continental shelf linked to El Nino-Southern Oscillation](https://doi.org/10.1029/2023GL104518). **Geophysical Research Letters**, 51, e2023GL104518.
