@@ -12,4 +12,8 @@ author_profile: true
 ### The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative
 
  
-
+<p align="center">
+  <img src="/files/SOFIA.png" alt="SOFIA" style="width:60%;
+  text-align:center"/>
+<figcaption>   </figcaption>
+</p>
