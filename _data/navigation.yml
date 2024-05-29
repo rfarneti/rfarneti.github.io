@@ -3,9 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
+  - title: "Talks"
     url: /talks/    
 
+  - title: "Projects"
+    url: /projects/    
+    
   - title: "Teaching"
     url: /teaching/    
     
