@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-This is NOT the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am physical oceanographer interested in the role of the ocean in climate variability, predictability and change. For my research, I use and develop a suite of ocean and coupled climate models, from global to regional. My research spans a broad range of topics including Southern Ocean physics and dynamics, Atlantic Ocean interannual to decadal variability, Pacific decadal variability and regional dynamics of the Mediterranean and Indian Ocean. 
+
+I obtained my PhD in physical oceanography at University of Southampton / National Oceanography Centre, UK under the supervision of Peter Killworth. I then moved to Princeton University / GFDL, NOAA and presently I am a Research Scientist in the Earth System Physics section of [ICTP](https://www.ictp.it/).
+
+Since 2015, I coordinate the Earth System Physics Diploma Programme, where I teach Geophysical Fluid Dynamics and Physics and Dynamics of the Ocean. I am also a member of the Academic Board of the PhD Program in Earth Science, Fluid Dynamics and Mathematics at the [University of Trieste](https://web.units.it/dottorato/esfm/).
+
+Since at ICTP, I co-organized around 20 Workshops and Schools both in Trieste and abroad, including Ecuador, India, Argentina, Turkey, Guatemala and Ghana.
+
+Between 2018-2020 I served as co-Chair of the WCRP CLIVAR/CliC/SCAR Southern Ocean Regional Panel. Since 2021 I serve as Topical Editor for the EGU Journal Geoscientific Model Development (GMD).
+
+#This is NOT the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) #and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data #stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal #Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content #that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://#github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and #have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://#stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
