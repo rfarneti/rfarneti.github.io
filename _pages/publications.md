@@ -39,3 +39,10 @@ urlcolor: blue
 * [50] Ding R., I-S Kang, *R. Farneti*, F. Kucharski, F. Di Sante, J. Xuan, F. Zhou, T. Zhang (2022), [The internal and ENSO-forced modes of the Indian Ocean sea surface temperature](https://doi.org/10.1175/JCLI-D-21-0403.1), **J. of Climate**, 35, 4191-4206.
 * [49] Arumi-Planas, C., A. Hernandez-Guerra, P. Velez-Belchi, *R. Farneti*, M. R. Mazloff, S. Mecking, K. G. Speer, L. D. Talley (2022), [Variability in the Meridional Overturning Circulation at 32S in the Pacific Ocean diagnosed by inverse box models](https://doi.org/10.1016/j.pocean.2022.102780), **Progress in Oceanography**, 203.
 * [48] Narayanasetti, S., S. Panickal, R. Krishnan, *R. Farneti*, F. Kucharski, A. Modi, A.G. Prajeesh, D.C. Ayantika, S. Manmeet (2022), [On the weakening association between South Asian Monsoon and Atlantic Multidecadal Oscillation](https://doi.org/10.1007/s00382-022-06224-1), **Climate Dynamics**, 2531–2547.
+
+### 2021
+* [47] Graffino, G., *R. Farneti*, F. Kucharski (2021), [Low-frequency variability of the Pacific Subtropical Cells as reproduced by coupled models and ocean reanalyses](), **Climate Dynamics**, 56, 9, 3231-3254.
+* [46] Villegas, N., I. Malikov, *R. Farneti* (2021), [Sea surface temperature in continental and insular coastal Colombian waters: observations of the recent past and near-term numerical projections](), **Lat. Am. J. Aquat. Res.**, 49, 2, 307-328.
+
+ ### 2020
+ * [46]
