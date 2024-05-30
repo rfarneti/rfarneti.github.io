@@ -35,4 +35,7 @@ urlcolor: blue
 * [52] Nnamchi, H.C., *R. Farneti*, N. S. Keenlyside, F. Kucharski, M. Latif, A. Reintges, T. Martin (2023), [Pan-Atlantic decadal climate oscillation linked to ocean circulation](https://doi.org/10.1038/s43247-023-00781-x), **Communications Earth and Environment**, 4, 121.
 
 ### 2022
-* [51]
+* [51] *Farneti, R.*, A. Stiz, J. Ssebandeke (2022), [The southeast tropical Atlantic and the Angola-Benguela upwelling system: improvements and persistent biases](htpps://doi.org/10.1175/JCLI-D-21-0403.1), **npj Clim Atmos Sci**, 5, 42.
+* [50] Ding R., I-S Kang, *R. Farneti*, F. Kucharski, F. Di Sante, J. Xuan, F. Zhou, T. Zhang (2022), [The internal and ENSO-forced modes of the Indian Ocean sea surface temperature](https://doi.org/10.1175/JCLI-D-21-0403.1), **J. of Climate**, 35, 4191-4206.
+* [49] Arumi-Planas, C., A. Hernandez-Guerra, P. Velez-Belchi, *R. Farneti*, M. R. Mazloff, S. Mecking, K. G. Speer, L. D. Talley (2022), [Variability in the Meridional Overturning Circulation at 32S in the Pacific Ocean diagnosed by inverse box models](https://doi.org/10.1016/j.pocean.2022.102780), **Progress in Oceanography**, 203.
+* [48] Narayanasetti, S., S. Panickal, R. Krishnan, *R. Farneti*, F. Kucharski, A. Modi, A.G. Prajeesh, D.C. Ayantika, S. Manmeet (2022), [On the weakening association between South Asian Monsoon and Atlantic Multidecadal Oscillation](https://doi.org/10.1007/s00382-022-06224-1), **Climate Dynamics**, 2531–2547.
