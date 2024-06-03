@@ -9,7 +9,7 @@ author_profile: true
 
 ## Current and Past Projects
 
-### The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative
+### The Southern Ocean Freshwater Input from Antarctica ([SOFIA](https://sofiamip.github.io/)) Initiative
 
  
 <p align="center">
