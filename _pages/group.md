@@ -9,29 +9,29 @@ author_profile: true
 
 ## Current postdocs & PhD students
 
-### Arthur Prigent (postdoc)
+* Arthur Prigent (postdoc)
 
-### Maria Vittoria Guarino (postdoc)
+* Maria Vittoria Guarino (postdoc)
 
-### Zihan Song (PhD student)
+* Zihan Song (PhD student)
 
-### Natalia Tilinina (MHPCS student)
+* Natalia Tilinina (MHPCS student)
 
-### Trishneeta Bhattacharya (STEP PhD student)
+* Trishneeta Bhattacharya (STEP PhD student)
 
 ## ICTP Associates
 
-### Kunal Chakraborty (INCOIS, India)
-### Suneet Dwivedi (Univeristy of Allahabad, India)
-### Hailong Liu (China)
+* Kunal Chakraborty (INCOIS, India)
+* Suneet Dwivedi (Univeristy of Allahabad, India)
+* Hailong Liu (China)
 
 ## Past postdocs & PhD students
 
-### Lina Sitz
+* Lina Sitz
 
-### Rene Navarro Labastida (ESFM, Univ. Trieste)
-### Rafael Reis (STEP, U. Federal Vicosa, Brazil)
-### Sandeep Narayanasetti (IITM, Pune, India)
-### Giorgio Graffino (ESFM, Univ. Trieste)
-### Marco Reale (ESFM, Univ. Trieste)
+* Rene Navarro Labastida (ESFM, Univ. Trieste)
+* Rafael Reis (STEP, U. Federal Vicosa, Brazil)
+* Sandeep Narayanasetti (IITM, Pune, India)
+* Giorgio Graffino (ESFM, Univ. Trieste)
+* Marco Reale (ESFM, Univ. Trieste)
 
