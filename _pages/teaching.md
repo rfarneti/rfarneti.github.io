@@ -10,12 +10,12 @@ author_profile: true
 
 ## ICTP Diploma Programme
 
-* Geophysical Fluid Dynamics
+* Geophysical Fluid Dynamics (since 2012)
 
-* Physics and Dynamics of the Ocean
+* Physics and Dynamics of the Ocean (since 2016)
 
 ## Univ. of Trieste - MSc in Physics
 
-* Climate Dynamics
-* Geophysical Fluid Dynamics
+* Climate Dynamics (since 2023)
+* Geophysical Fluid Dynamics (since 2020)
 
