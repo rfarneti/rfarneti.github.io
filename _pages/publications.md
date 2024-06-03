@@ -44,5 +44,7 @@ urlcolor: blue
 * [47] Graffino, G., *R. Farneti*, F. Kucharski (2021), [Low-frequency variability of the Pacific Subtropical Cells as reproduced by coupled models and ocean reanalyses](), **Climate Dynamics**, 56, 9, 3231-3254.
 * [46] Villegas, N., I. Malikov, *R. Farneti* (2021), [Sea surface temperature in continental and insular coastal Colombian waters: observations of the recent past and near-term numerical projections](), **Lat. Am. J. Aquat. Res.**, 49, 2, 307-328.
 
- ### 2020
+### 2020
  * [46]
+ * [45]
+ * [44]
