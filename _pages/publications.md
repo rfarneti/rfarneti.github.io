@@ -61,3 +61,10 @@ urlcolor: blue
  * [37] Barreiro, M., L. Sitz, S. de Mello, R. Fuentes-Franco, M. Renom, *R. Farneti* (2018), [Modeling the role of air-sea interaction in the impact of the MJO on South American climate. {\it Int. J. Climatology]( https://doi.org/10.1002/joc.5865), **Int. J. Climatology**, 39, 2, 1104-1116.
 
 ### 2017
+ * [36] *Farneti, R.* (2017), [Modelling interdecadal climate variability and the role of the ocean]( https://doi.org/10.1002/wcc.441), **WIREs Clim Change**, 8 (1).
+ * [35] Nnamchi, H., F. Kucharski, N. Keenlyside, *R. Farneti* (2017), [Analogous seasonal evolution of South Atlantic SST dipole indices](https://doi.org/10.1002/asl.781), **Atmos. Sci. Lett.**, 18(10), 396-402.
+ * [34] Reale, M., S. Salon, A. Crise, *R. Farneti*, R. Mosetti, G. Sannino (2017), [Unexpected covariant behavior of the Aegean and Ionian Seas in the period 1987-2008 by means of a non-dimensional sea surface height index]( https://doi.org/10.1002/2017JC012983), **JGR: Oceans**, 122, 10, 8020-8033.
+ * [33] Sitz, L., F. Di Sante, *R. Farneti*, R. Fuentes-Franco, G. Sannino, M. Barreiro, L. Mariotti, M. Reale, E. Coppola, F. Giorgi (2017), [Description and evaluation of the Earth System Regional Climate Model (Reg CM-ES)](https://doi.org/10.1002/2017MS000933), **JAMES**, 9, 4, 1863-1886.
+ * [32] Molteni, F., *R. Farneti*, F. Kucharski, T. N. Stockdale (2017), [Modulation of air-sea fluxes by extratropical planetary waves and its impact during the recent surface warming slowdown]( https://doi.org/10.1002/2016GL072298), **GRL**, 44, 3, 1494-1502.
+
+### 2017
