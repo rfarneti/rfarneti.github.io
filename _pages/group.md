@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Current postdocs & PhD students
-__
+___
 
 * Arthur Prigent (postdoc)
 
