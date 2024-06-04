@@ -21,12 +21,14 @@ ___
 * Trishneeta Bhattacharya (STEP PhD student)
 
 ## ICTP Associates
+___
 
 * Kunal Chakraborty (INCOIS, India)
 * Suneet Dwivedi (Univeristy of Allahabad, India)
 * Hailong Liu (China)
 
 ## Past postdocs & PhD students
+___
 
 * Lina Sitz
 
