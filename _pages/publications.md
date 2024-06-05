@@ -67,4 +67,14 @@ urlcolor: blue
  * [33] Sitz, L., F. Di Sante, *R. Farneti*, R. Fuentes-Franco, G. Sannino, M. Barreiro, L. Mariotti, M. Reale, E. Coppola, F. Giorgi (2017), [Description and evaluation of the Earth System Regional Climate Model (Reg CM-ES)](https://doi.org/10.1002/2017MS000933), **JAMES**, 9, 4, 1863-1886.
  * [32] Molteni, F., *R. Farneti*, F. Kucharski, T. N. Stockdale (2017), [Modulation of air-sea fluxes by extratropical planetary waves and its impact during the recent surface warming slowdown]( https://doi.org/10.1002/2016GL072298), **GRL**, 44, 3, 1494-1502.
 
-### 2017
+### 2016
+ * [31] Reale, M., A. Crise, *R. Farneti*, R. Mosetti (2016), [A process study of the Adriatic-Ionian system baroclinic dynamics](https://doi.org/10.1002/2016JC011763), **JGR: Oceans**, 121, 5872-5887.
+ * [30] Tseng, Y-h., ..., *R. Farneti*, et al. (2016). [North and Equatorial Pacific Ocean Circulation in the CORE-II Hindcast Simulations](https://doi.org/10.1016/j.ocemod.2016.06.003). **Ocean Modelling**, 104, 143-170.
+ * [29] namchi, H., J. Li, F. Kucharski, I-S. Kang, N. S. Keenlyside, P. Chang, *R. Farneti* (2016), [An equatorial-extratropical dipole structure of the Atlantic Ni\~no](https://doi.org/10.1175/JCLI-D-15-0894.1). **J. of Climate**, 29, 7295-7311.
+ * [28] Kucharski, F., A. Parvin, B. Rodriguez-Fonseca, *R. Farneti*, M. Martin-Rey, I. Polo, E. Mohino, T. Losada, C. R. Mechoso (2016), [The teleconnection of the tropical Atlantic to Indo-Pacific sea surface temperatures on interannual to centennial time scales: a review of recent findings](https://doi.org/10.3390/atmos7020029). **Atmosphere**, 7(2), 29.
+ * [27] Danabasoglu, G., ..., *R. Farneti*, et al. (2016), [North Atlantic simulations in Coordinated Ocean-ice Reference Experiments phase II (CORE-II). Part II: Interannual to decadal variability](https://doi.org/10.1016/j.ocemod.2015.11.007). **Ocean Modelling**, 97, 65-90.
+ * [26] Kucharski, F., F. Ikram, F. Molteni, *R. Farneti*, I.-S. Kang, H.-H. No, M. P. King, G. Giuliani, K. Mogensen (2016), [Atlantic forcing of Pacific decadal variability](https://doi.org/10.1007/s00382-015-2705-z), **Climate Dynamics**, 46, 7, 2337-2351.
+
+### 2015
+
+   
