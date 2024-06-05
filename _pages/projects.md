@@ -20,6 +20,7 @@ The initiative was started by the CliC/CLIVAR/SCAR Southern Ocean Regional Panel
   text-align:left"/>
 <figcaption>   </figcaption>
 </p>
+
 ([Swart et al. (2023)](https://doi.org/10.5194/gmd-16-7289-2023)) 
 
 ### Flux-anomaly-forced model intercomparison project ([FAFMIP](http://www.fafmip.org/))
