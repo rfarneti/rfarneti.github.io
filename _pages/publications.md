@@ -19,7 +19,7 @@ urlcolor: blue
 
 ### 2024
 
-* [60] Prigent, A., *R. Farneti* (2024), An assessment of equatorial Atlantic interannual variability in OMIP simulations. Submitted to **Ocean Sciences**
+* [60] Prigent, A., *R. Farneti* (2024), [An assessment of equatorial Atlantic interannual variability in OMIP simulations](). **Ocean Sciences**, in press.
 
 * [59] Arumi-Planas, C., S. Dong, R. Perez, M. Harrison, *R. Farneti*, A. Hernandez-Guerra (2024), [A multi-data set analysis of the freshwater transport by the Atlantic Meridional Overturning Circulation at nominally 34.5S](). **JGR: Oceans**, in press.
 
