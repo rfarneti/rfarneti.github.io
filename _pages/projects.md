@@ -16,9 +16,9 @@ The initiative was started by the CliC/CLIVAR/SCAR Southern Ocean Regional Panel
 
 ([Swart et al. (2023)](https://doi.org/10.5194/gmd-16-7289-2023)) 
 
-<p align="center">
+<p align="left">
   <img src="/images/SOFIA.png" alt="SOFIA" style="width:15%;
-  text-align:center"/>
+  text-align:left"/>
 <figcaption>   </figcaption>
 </p>
 
