@@ -21,9 +21,9 @@ Between 2018-2020 I served as co-Chair of the WCRP [CLIVAR/CliC/SCAR Southern Oc
 
 My research interests include:
 
-* **Southern Ocean:**
+* **1/**
 
-* **Subtropical cells:**
+* **2/**
 
 This website contains my CV, a list of publications and a short summary of some of the projects that I am currently
 involved in.  If you wish to know more or have any other questions,
