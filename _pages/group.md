@@ -16,7 +16,7 @@ ___
 
 * Zihan Song (PhD student)
 
-* Natalia Tilinina (MHPCS student)
+* Natalia Tilinina (MHPC student)
 
 * Trishneeta Bhattacharya (STEP PhD student)
 
