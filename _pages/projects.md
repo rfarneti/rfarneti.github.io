@@ -65,7 +65,7 @@ Finally, the land model is reduced to a single bucket land, with constant water 
 The model components and new parameterizations retain the original modularity, in order to allow the coupled model to recover complexity in any of its parts.
 It should be emphasized at this point that the objectives of this modelling initiative are not those of reproducing an accurate climate in all its details, but rather to test some mechanisms in the coupled ocean-atmosphere system and trying to understand the relative role of its different components. A more realistic response could be achieved in both the ocean and atmosphere, but with a computational cost and with increasing complexity in the model's physics, which would be counterproductive to our initial objective.
 
-The model has been used for several fundamental studies on the coupled ocean-atmosphere system: $\sqrt{3x-1}+(1+x)^2$
+The model has been used for several fundamental studies on the coupled ocean-atmosphere system: 
 
 * [Farneti, R. and G. K. Vallis (2013), Meridional energy transport in the coupled atmosphere-ocean system: Compensation and partitioning. **J of Climate**, 26, 18, 7151-7166.]()
 * [Farneti, R. and G.K. Vallis (2011), Mechanisms of interdecadal climate variability and the role of ocean-atmosphere coupling. **Climate Dynamics**,  36, 1, 289--308.]()
