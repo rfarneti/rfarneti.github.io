@@ -76,5 +76,18 @@ urlcolor: blue
  * [26] Kucharski, F., F. Ikram, F. Molteni, *R. Farneti*, I.-S. Kang, H.-H. No, M. P. King, G. Giuliani, K. Mogensen (2016), [Atlantic forcing of Pacific decadal variability](https://doi.org/10.1007/s00382-015-2705-z), **Climate Dynamics**, 46, 7, 2337-2351.
 
 ### 2015
+  * [25] *Farneti, R.*, et al. (2015), [An assessment of Antarctic Circumpolar Current and Southern Ocean  
+     Meridional Overturning Circulation during 1958--2007 in a suite of interannual CORE-II simulations](https://doi.org/10.1016/j.ocemod.2015.07.009). **Ocean Modelling**, 93, 84-120.
+  * [24] Downes, S., *R. Farneti*, et al. (2015), [An assessment of Southern Ocean water masses and sea-ice during 1988-2007 in a suite of interannual CORE-II simulations](https://doi.org/10.1016/j.ocemod.2015.07.022). **Ocean Modelling**, 94, 67-94.
+  * [23] Sitz, L., *R. Farneti*, S. M. Griffies (2015), [Simulated South Atlantic transports and their variability during 1958-2007](https://doi.org/10.1016/j.ocemod.2015.05.001). **Ocean Modelling**, 91, 70-90.
+  * [22] Nnamchi, H., J. Li, F. Kucharski, I-S. Kang, N. S. Keenlyside, P. Chang, *R. Farneti* (2015), [Thermodynamic controls of Atlantic Ni\~no](https://doi.org/10.1038/ncomms9895). **Nat. Comm.**, 6:8895.
 
+### 2014
+  * [21] *Farneti, R.*, S. Dwivedi, F. Kucharski, F. Molteni, S. M. Griffies (2014), [On Pacific subtropical cell variability over the second half of the 20th century](https://doi.org/10.1175/JCLI-D-13-00707.1). **J. of Climate**, 27, 18, 7102-7112.
+  * [20] *Farneti, R.*, F. Molteni, F. Kucharski (2014), [Pacific interdecadal variability driven by tropical-extratropical interactions](https://doi.org/10.1007/s00382-013-1906-6). **Climate Dynamics**, 42, 3337–3355.
+  * [19] Griffies, S.,  ... , *R. Farneti*, et al. (2014), [Global and regional sea level in a suite of interannual CORE-II hindcast simulations](https://doi.org/10.1016/j.ocemod.2014.03.004). **Ocean Modelling**, 78, 35-89.
+  * [18] Danabasoglu, G., ... , *R. Farneti*, et al. (2014), [North Atlantic simulations in Coordinated Ocean-ice Reference Experiments phase II (CORE-II). Part I: Mean states](https://doi.org/10.1016/j.ocemod.2013.10.005). **Ocean Modelling**, 73, 76-107.
+
+### 2013
+  
    
