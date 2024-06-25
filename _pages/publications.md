@@ -76,8 +76,7 @@ urlcolor: blue
  * [26] Kucharski, F., F. Ikram, F. Molteni, *R. Farneti*, I.-S. Kang, H.-H. No, M. P. King, G. Giuliani, K. Mogensen (2016), [Atlantic forcing of Pacific decadal variability](https://doi.org/10.1007/s00382-015-2705-z), **Climate Dynamics**, 46, 7, 2337-2351.
 
 ### 2015
-  * [25] *Farneti, R.*, et al. (2015), [An assessment of Antarctic Circumpolar Current and Southern Ocean  
-     Meridional Overturning Circulation during 1958--2007 in a suite of interannual CORE-II simulations](https://doi.org/10.1016/j.ocemod.2015.07.009). **Ocean Modelling**, 93, 84-120.
+  * [25] *Farneti, R.*, et al. (2015), [An assessment of Antarctic Circumpolar Current and Southern Ocean Meridional Overturning Circulation during 1958--2007 in a suite of interannual CORE-II simulations](https://doi.org/10.1016/j.ocemod.2015.07.009). **Ocean Modelling**, 93, 84-120.
   * [24] Downes, S., *R. Farneti*, et al. (2015), [An assessment of Southern Ocean water masses and sea-ice during 1988-2007 in a suite of interannual CORE-II simulations](https://doi.org/10.1016/j.ocemod.2015.07.022). **Ocean Modelling**, 94, 67-94.
   * [23] Sitz, L., *R. Farneti*, S. M. Griffies (2015), [Simulated South Atlantic transports and their variability during 1958-2007](https://doi.org/10.1016/j.ocemod.2015.05.001). **Ocean Modelling**, 91, 70-90.
   * [22] Nnamchi, H., J. Li, F. Kucharski, I-S. Kang, N. S. Keenlyside, P. Chang, *R. Farneti* (2015), [Thermodynamic controls of Atlantic Ni\~no](https://doi.org/10.1038/ncomms9895). **Nat. Comm.**, 6:8895.
@@ -89,5 +88,24 @@ urlcolor: blue
   * [18] Danabasoglu, G., ... , *R. Farneti*, et al. (2014), [North Atlantic simulations in Coordinated Ocean-ice Reference Experiments phase II (CORE-II). Part I: Mean states](https://doi.org/10.1016/j.ocemod.2013.10.005). **Ocean Modelling**, 73, 76-107.
 
 ### 2013
+  * [17] *Farneti, R.* and G. K. Vallis (2013), [Meridional energy transport in the coupled atmosphere-ocean system: Compensation and partitioning](). **J. of Climate**, 26, 18, 7151-7166.
+  * [16] *Farneti, R.*, S. Salon, A. Crise, R. Martinez (2013), [Climate change in Mediterranean and Caribbean seas: research experiences and new scientific challenges](). **Bull. Amer. Meteor. Soc.**, 94, ES89-ES92.
+  * [15] F\v{u}ckar, N. S., S.-P. Xie, *R. Farneti*, E. Maroon, D.W. Frierson (2013), [Influence of extratropical ocean circulation on the intertropical convergence zone in an idealized coupled general circulation model](). **J. of Climate**, 26, 13, 4612--4629.
+  * [14] Kwon, E. Y.,  S. Downes, J. Sarmiento, *R. Farneti*, C. Deutsch (2013), [The role of seasonal cycle in the subduction rates of Southern Ocean mode waters](), *J. Phys. Oceanogr.*, 43, 1096-1113. 
+  * [13] Kucharski, F., F. Molteni, M.P. King, *R. Farneti*, I.-S. Kang, L. Feudale (2013), [On the need of intermediate complexity general circulation models: a `SPEEDY' example](), **Bull. Amer. Meteor. Soc.**, 94, 1, 25-30.
+
+### 2012
+  * [12]
+  * [11]
+  * [10]
+  * [9]
+  * [8]
+  * [7]
+  * [6]
+  * [5]
+  * [4]
+  * [3]
+  * [2]
+  * [1]
   
    
