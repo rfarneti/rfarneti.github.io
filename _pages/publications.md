@@ -104,18 +104,18 @@ urlcolor: blue
   * [8] Downes, S. M., A. Budnick, J. L. Sarmiento, *R. Farneti* (2011), [Impacts of wind stress on the Antarctic Circumpolar Current fronts and associated subduction](), **GRL**, 38, L11605.
   * [7] Kucharski, F., I.-S. Kang, *R. Farneti*, L. Feudale (2011), [Tropical Pacific response to 20th Century Atlantic warming](), **GRL**, 38, L03702.
 
- ### 2010   
+### 2010   
   * [6] *Farneti, R.*, T. L. Delworth (2010), [The role of mesoscale eddies in the remote oceanic response to altered Southern Hemisphere winds](), **J. Phys. Oceanogr.**, 40, 10, 2348-2354.
   * [5] *Farneti, R.*, T. L. Delworth, A. J. Rosati, S. M. Griffies, F. Zang (2010), [The role of mesoscale eddies in the rectification of the Southern Ocean response to climate change](), **J. Phys. Oceanogr.**, 40, 7, 1539-1557.
 
- ### 2009
+### 2009
   * [4] *Farneti, R.* and G.K. Vallis (2009), [An Intermediate Complexity Climate Model (ICCMp1) based on the GFDL Flexible Modelling System](), **GMD**, 2, 1, 73-88.
   * [3] Vallis, G. K. and *R. Farneti* (2009), [Meridional energy transport in the coupled atmosphere-ocean system: Scaling and numerical experiments](), **QJRMS**, 135, 644, 1643-1660.
 
- ### 2007   
+### 2007   
   * [2] *Farneti, R.* (2007), [Coupled interannual Rossby waves in a Quasi-Geostrophic coupled model](), **J. Phys. Oceanogr.**, 37, 5, 1192-1214.
 
- ### 2005   
+### 2005   
   * [1] *Farneti, R.* and P.D. Killworth (2005), [The effects on oceanic planetary waves of coupling with an atmospheric energy balance model](), **Tellus A**, 57A, 742-757.
   
    
