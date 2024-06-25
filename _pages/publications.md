@@ -101,7 +101,7 @@ urlcolor: blue
   * [11] *Farneti, R.* and G.K. Vallis (2011), [Mechanisms of interdecadal climate variability and the role of ocean-atmosphere coupling](), **Climate Dynamics**, 36, 1, 289-308. 
   * [10] *Farneti, R.*, P. R. Gent (2011), [The effects of the eddy-induced advection coefficient in a coarse-resolution coupled climate model](), **Ocean Modelling**, 39, 135--145.
   * [9] Griffies, S. M., M. Winton, L. J. Donner, S. Downes, *R. Farneti*, A. Gnanadesikan, L. W. Horowitz, W. Hurlin, H.-C. Lee, J. B. Palter, B. L. Samuels, A. Wittenberg, B. L. Wyman, J. Yin (2011), [GFDL's CM3 coupled climate model: Characteristics of the ocean and sea ice simulations](), **J. of Climate**, 24, 13, 3520-3544.
-  * [8] Downes, S. M., A. Budnick, J. L. Sarmiento, R. Farneti* (2011), [Impacts of wind stress on the Antarctic Circumpolar Current fronts and associated subduction](), **GRL**, 38, L11605.
+  * [8] Downes, S. M., A. Budnick, J. L. Sarmiento, *R. Farneti* (2011), [Impacts of wind stress on the Antarctic Circumpolar Current fronts and associated subduction](), **GRL**, 38, L11605.
   * [7] Kucharski, F., I.-S. Kang, *R. Farneti*, L. Feudale (2011), [Tropical Pacific response to 20th Century Atlantic warming](), **GRL**, 38, L03702.
 
  ### 2010   
