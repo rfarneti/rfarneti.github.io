@@ -22,15 +22,17 @@ Since at ICTP, I co-organized around 20 Workshops and Schools both in Trieste an
 
 Between 2018-2020 I served as co-Chair of the WCRP [CLIVAR/CliC/SCAR Southern Ocean Regional Panel](https://www.clivar.org/clivar-panels/southern). Since 2021 I serve as Topical Editor for the EGU Journal [Geoscientific Model Development (GMD)](https://www.geoscientific-model-development.net/).
 
+This website contains my CV, a list of publications and a short summary of some of the projects that I am currently
+involved in.  If you wish to know more or have any other questions,
+please contact me at
+[rfarneti@ictp.it](mailto:rfarneti@ictp.it)
+
 ## Forthcoming Schools & Workshops
 
 * **[School and Workshop on Polar Climates: Theoretical, Observational and Modelling Advances](https://indico.ictp.it/event/10498/)** (22-31 July, 2024)
 
   
 
-This website contains my CV, a list of publications and a short summary of some of the projects that I am currently
-involved in.  If you wish to know more or have any other questions,
-please contact me at
-[rfarneti@ictp.it](mailto:rfarneti@ictp.it)
+
 
 
