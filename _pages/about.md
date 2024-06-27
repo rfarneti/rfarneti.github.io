@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am physical oceanographer interested in the role of the ocean in climate variability, predictability and change. For my research, I use and develop a suite of ocean and coupled climate models mainly based on the [GFDL/MOM](https://github.com/mom-ocean) model. My research spans a broad range of topics including Southern Ocean physics and dynamics, Atlantic Ocean interannual to decadal variability, Pacific decadal variability and regional dynamics of the Mediterranean and Indian Ocean. 
+I am physical oceanographer interested in the role of the ocean in climate variability, predictability and change. For my research, I use and develop a suite of ocean and coupled climate models mainly based on the [GFDL/MOM](https://github.com/mom-ocean) model. My research spans a broad range of topics including 
+
+* Southern Ocean physics and dynamics
+* Atlantic Ocean interannual to decadal variability
+* Pacific decadal variability
+* regional dynamics of the Mediterranean and Indian Ocean. 
 
 I obtained my PhD in physical oceanography at University of Southampton / National Oceanography Centre. I then moved to Princeton University / GFDL, NOAA and presently I am a Research Scientist in the Earth System Physics section of [ICTP](https://www.ictp.it/esp).
 
@@ -22,13 +27,6 @@ Between 2018-2020 I served as co-Chair of the WCRP [CLIVAR/CliC/SCAR Southern Oc
 * **[School and Workshop on Polar Climates: Theoretical, Observational and Modelling Advances](https://indico.ictp.it/event/10498/)** (22-31 July, 2024)
 
   
-## Research Interests
-
-My research interests include:
-
-* **1/**
-
-* **2/**
 
 This website contains my CV, a list of publications and a short summary of some of the projects that I am currently
 involved in.  If you wish to know more or have any other questions,
