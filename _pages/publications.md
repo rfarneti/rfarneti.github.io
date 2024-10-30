@@ -15,7 +15,15 @@ urlcolor: blue
 
 ### Articles submitted for publication
 
+* [65] Prigent, A., *R. Farneti*, F. Kucharski (2025), On the equatorial Pacific interannual variability in OMIP simulations. Submitted.
 
+* [64] Huang C., H. Liu, R. Yang, J. Cao, *R. Farneti*, F. Wang (2025), More tropical cyclone activity limited to the low latitudes in the North Atlantic since the late 1970s. Submitted.
+  
+* [63] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs. Submitted.
+
+* [62] Hu, A., I. Richter, Y. Okumura, N. Burls, N. Keenlyside, R. Parfitt, K. Bellomo, A. Bellucci, *R. Farneti*, A. Fedorov, B. Ferster, C. He, W. Kim, Q. Li, D. Matei (2025), Unraveling the Complexity of Global Climate Dynamics: ENSO, AMOC, and tropical basin Interactions. **OLAR**. Submitted.
+
+* [61] Prigent, A., I. Richter, A. Storto, *R. Farneti* (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. **Climate Dynamics**. Submitted.
 
 ### 2024
 
