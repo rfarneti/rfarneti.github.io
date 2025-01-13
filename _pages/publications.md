@@ -13,18 +13,19 @@ urlcolor: blue
 
 ## Journal Articles
 
-### Articles submitted for publication
+### 2025
 
 
-* [65] Huang C., H. Liu, R. Yang, J. Cao, *R. Farneti*, F. Wang (2025), More tropical cyclone activity limited to the low latitudes in the North Atlantic since the late 1970s. Submitted.
   
-* [64] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs. Submitted.
+* [65] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs. **Climate Dynamics**, Submitted.
 
-* [63] Hu, A., I. Richter, Y. Okumura, N. Burls, N. Keenlyside, R. Parfitt, K. Bellomo, A. Bellucci, *R. Farneti*, A. Fedorov, B. Ferster, C. He, W. Kim, Q. Li, D. Matei (2025), Unraveling the Complexity of Global Climate Dynamics: ENSO, AMOC, and tropical basin Interactions. Submitted.
+* [64] Hu, A., I. Richter, Y. Okumura, N. Burls, N. Keenlyside, R. Parfitt, K. Bellomo, A. Bellucci, *R. Farneti*, A. Fedorov, B. Ferster, C. He, W. Kim, Q. Li, D. Matei (2025), Unraveling the Complexity of Global Climate Dynamics: ENSO, AMOC, and tropical basin Interactions. **OLAR**, Submitted.
 
-* [62] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), Impact of wind forcing on the equatorial Pacific interannual SST variability in OMIP simulations. Submitted.
+* [63] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), Impact of wind forcing on the equatorial Pacific interannual SST variability in OMIP simulations. **Climate Dynamics**, Submitted.
 
-* [61] Prigent, A., I. Richter, A. Storto, *R. Farneti* (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. Submitted.
+* [62] Prigent, A., I. Richter, A. Storto, *R. Farneti* (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. **Climate Dynamics**, Submitted.
+
+* [61] Reis, R. A. do N., Justino F., de Mendonça L. F. F., *R. Farneti*, Tonelli M., Machado J. P., Lindemann D. da S. (2025), [Representation of Dense Shelf Water formation by global oceanic reanalyses](https://doi.org/10.33265/polar.v43.9732). **Polar Research**, 43, 
 
 ### 2024
 
