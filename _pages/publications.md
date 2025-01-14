@@ -25,9 +25,9 @@ urlcolor: blue
 
 * [62] Prigent, A., I. Richter, A. Storto, *R. Farneti* (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. **Climate Dynamics**, Submitted.
 
-* [61] Reis, R. A. do N., Justino F., de Mendonça L. F. F., *R. Farneti*, Tonelli M., Machado J. P., Lindemann D. da S. (2025), [Representation of Dense Shelf Water formation by global oceanic reanalyses](https://doi.org/10.33265/polar.v43.9732). **Polar Research**, 43, 
-
 ### 2024
+
+* [61] Reis, R. A. do N., Justino F., de Mendonça L. F. F., *R. Farneti*, Tonelli M., Machado J. P., Lindemann D. da S. (2025), [Representation of Dense Shelf Water formation by global oceanic reanalyses](https://doi.org/10.33265/polar.v43.9732). **Polar Research**, 43, 
 
 * [60] Prigent, A., *R. Farneti* (2024), [An assessment of equatorial Atlantic interannual variability in OMIP simulations](https://os.copernicus.org/articles/20/1067/2024/). **Ocean Sciences**, 20, 1067-1086, 2024.
 
