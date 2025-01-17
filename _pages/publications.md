@@ -15,7 +15,7 @@ urlcolor: blue
 
 ### 2025
 
-
+* [66] Guarino M. V., J. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A.M. Tompkins,  E. Vignon,  C. Wright (2025), A long-term shift in flow regimes over the Antarctic Peninsula. Submitted. 
   
 * [65] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs. **Climate Dynamics**, Submitted.
 
