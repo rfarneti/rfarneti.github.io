@@ -29,6 +29,8 @@ please contact me at
 
 ## Forthcoming Schools & Workshops
 
+* **[6th Summer School on Theory, Mechanisms and Hierarchical Modelling of Climate Dynamics: Artificial Intelligence and Climate Modelling](https://indico.ictp.it/event/10832)**(5-16 May, 2025)
+  
 * **[School and Workshop on Polar Climates: Theoretical, Observational and Modelling Advances](https://indico.ictp.it/event/10498/)** (22-31 July, 2024)
 
   
