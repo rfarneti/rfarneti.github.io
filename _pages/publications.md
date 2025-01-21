@@ -29,7 +29,7 @@ urlcolor: blue
 
 * [61] Reis, R. A. do N., Justino F., de Mendonça L. F. F., *R. Farneti*, Tonelli M., Machado J. P., Lindemann D. da S. (2025), [Representation of Dense Shelf Water formation by global oceanic reanalyses](https://doi.org/10.33265/polar.v43.9732). **Polar Research**, 43, 
 
-* [60] Prigent, A., *R. Farneti* (2024), [An assessment of equatorial Atlantic interannual variability in OMIP simulations](https://os.copernicus.org/articles/20/1067/2024/). **Ocean Sciences**, 20, 1067-1086, 2024.
+* [60] Prigent, A., *R. Farneti* (2024), [An assessment of equatorial Atlantic interannual variability in Ocean Model Intercomparison Project (OMIP) simulations](https://os.copernicus.org/articles/20/1067/2024/). **Ocean Sciences**, 20, 1067-1086, 2024.
 
 * [59] Arumi-Planas, C., S. Dong, R. Perez, M. Harrison, *R. Farneti*, A. Hernandez-Guerra (2024), [A multi-data set analysis of the freshwater transport by the Atlantic Meridional Overturning Circulation at nominally 34.5S](http://doi.org/10.1029/2023JC020558). **JGR: Oceans**, 129, e2023JC020558.
 
