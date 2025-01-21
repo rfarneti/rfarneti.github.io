@@ -14,7 +14,6 @@ urlcolor: blue
 ## Journal Articles
 
 ### 2025
-
 * [66] Guarino M. V., J. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A.M. Tompkins,  E. Vignon,  C. Wright (2025), A long-term shift in flow regimes over the Antarctic Peninsula. Submitted. 
   
 * [65] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs. **Climate Dynamics**, Submitted.
@@ -26,17 +25,12 @@ urlcolor: blue
 * [62] Prigent, A., I. Richter, A. Storto, *R. Farneti*, R. A. Imbol Koungue, Y. Okumura, P. Chang (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. **Climate Dynamics**, Submitted.
 
 ### 2024
-
 * [61] Reis, R. A. do N., Justino F., de Mendonça L. F. F., *R. Farneti*, Tonelli M., Machado J. P., Lindemann D. da S. (2025), [Representation of Dense Shelf Water formation by global oceanic reanalyses](https://doi.org/10.33265/polar.v43.9732). **Polar Research**, 43, 
-
 * [60] Prigent, A., *R. Farneti* (2024), [An assessment of equatorial Atlantic interannual variability in Ocean Model Intercomparison Project (OMIP) simulations](https://os.copernicus.org/articles/20/1067/2024/). **Ocean Sciences**, 20, 1067-1086, 2024.
-
 * [59] Arumi-Planas, C., S. Dong, R. Perez, M. Harrison, *R. Farneti*, A. Hernandez-Guerra (2024), [A multi-data set analysis of the freshwater transport by the Atlantic Meridional Overturning Circulation at nominally 34.5S](http://doi.org/10.1029/2023JC020558). **JGR: Oceans**, 129, e2023JC020558.
-
 * [58] Molteni, F., F. Kucharski, *R. Farneti* (2024), [Multi-decadal pacemaker simulations with an intermediate-complexity climate model](https://doi.org/10.5194/wcd-5-293-2024). **Weather Clim. Dynam.**, 5, 293-322.
 
 ### 2023
-
 * [57] Prigent, A., R. A. Imbol Koungue, A. S. N. Imbol Nkwinkwa, G. Beobide-Arsuaga, *R. Farneti* (2023), [Uncertainty on Atlantic Ni\~no variability projections](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105000). **GRL**, 50, e2023GL105000.
 * [56] Swart, N., T. Martin, ..., *R. Farneti*, et al. (2023), [The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative: scientific objectives and experimental design](https://doi.org/10.5194/gmd-16-7289-2023). **GMD**, 16, 7289-7309.
 * [55] Capotondi, ..., *R. Farneti*, et al. (2023), [Mechanisms of Tropical Pacific Decadal Variability](https://doi.org/10.1038/s43017-023-00486-x). **Nature Reviews Earth & Environment**, 4, 754-769.
@@ -61,7 +55,6 @@ urlcolor: blue
  * [42] Rahaman, H., U. Srinivasu, S. Panickal, J. Durgadoo, S. M. Griffies, M. Ravichandran, A. Bozec, A. Cherchi, G. Danabasoglu, *R. Farneti*, K. Getzlaff, M. Ilicak, S.J. Marsland, H. Tsujino, S. Valcke, A. Voldoire, Q. Wang (2020), [An assessment of the Indian Ocean mean state and seasonal cycle in a suite of interannual CORE-II simulations](https://doi.org/10.1016/j.ocemod.2019.101503), **Ocean Modelling**, 145, 101503.
 
 ### 2019
-
  * [41] Graffino, G., *R. Farneti*, F. Kucharski, F. Molteni (2019), [The effect of wind stress anomalies and their location in driving Pacific Subtropical cells and tropical climate](https://doi.org/10.1175/JCLI-D-18-0071.1), **J. of Climate**, 32, 5, 1641-1660.
  * [40] Stammer, D., A. Bracco, L. Beal, N. Bindoff, P. Braconnot, W. Cai, D. Chen, G. Danabasoglu, B. Dewitte, *R. Farneti*, K. Takahashi Guevara, B. Fox Kemper, J. Fyfe, S. M. Griffies, S. Jayne, R. Mathew Koll, A. Lazar, M. Lengaigne, X. Lin, S. Marsland, P. Monteiro, W. Robinson, R. Rykaczewski, S. Speich, I. J. Smith, A. Solomon, J. Vialard (2019), [Ocean climate observing requirements in support of climate research and climate information. Proceedings of OceanObs'19](https://doi.org/10.3389/fmars.2019.00444), **Frontiers in Marine Science**.
  * [39] Newmann, L., P. Heil, R. Trebilco, K. Katsumata, A. J. Constable, E. van Wijk, K. Assmann, J. Beja, P. Bricher, R. Coleman, D. Costa, S. Diggs, *R. Farneti*, S. Fawcett, S. T. Gille, K. R. Hendry, S. F. Henley, E. Hofmann, T. Maksym, M. Mazloff, A. J. Meijers, M. P. Meredith, S. Moreau, B. Ozsoy, R. Robertson, I. R. Schloss, O. Schofield, J. Shi, E. L. Sikes, I. J. Smith, S. Swart, A. Wahlin, G. Williams, M. J. Williams, L. Herraiz-Borreguero, S. Kern, J. Lieser, R. Massom, J. Melbourne-Thomas, P. Miloslavich, G. Spreen (2019), [Delivering sustained, coordinated and integrated  observations of the Southern Ocean for global impact. Proceedings of OceanObs'19](https://doi.org/10.3389/fmars.2019.00433), **Frontiers in Marine Science**.
