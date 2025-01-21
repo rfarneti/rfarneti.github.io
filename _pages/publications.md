@@ -21,7 +21,7 @@ urlcolor: blue
 
 * [64] Hu, A., I. Richter, Y. Okumura, N. Burls, N. Keenlyside, R. Parfitt, K. Bellomo, A. Bellucci, *R. Farneti*, A. Fedorov, B. Ferster, C. He, W. Kim, Q. Li, D. Matei (2025), Unraveling the Complexity of Global Climate Dynamics: ENSO, AMOC, and tropical basin Interactions. **OLAR**, Submitted.
 
-* [63] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), Impact of wind forcing on the equatorial Pacific interannual SST variability in OMIP simulations. **Climate Dynamics**, Submitted.
+* [63] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations. **Climate Dynamics**, Submitted.
 
 * [62] Prigent, A., I. Richter, A. Storto, *R. Farneti* (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. **Climate Dynamics**, Submitted.
 
