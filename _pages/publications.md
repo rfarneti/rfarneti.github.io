@@ -23,7 +23,7 @@ urlcolor: blue
 
 * [63] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations. **Climate Dynamics**, Submitted.
 
-* [62] Prigent, A., I. Richter, A. Storto, *R. Farneti* (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. **Climate Dynamics**, Submitted.
+* [62] Prigent, A., I. Richter, A. Storto, *R. Farneti*, R. A. Imbol Koungue, Y. Okumura, P. Chang (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. **Climate Dynamics**, Submitted.
 
 ### 2024
 
