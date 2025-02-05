@@ -12,8 +12,6 @@ ___
 
 * Arthur Prigent (postdoc)
 
-* Maria Vittoria Guarino (postdoc)
-
 * Zihan Song (PhD student)
 
 * Natalia Tilinina (MHPC student)
@@ -30,6 +28,7 @@ ___
 ## Past postdocs & PhD students
 ___
 
+* Maria Vittoria Guarino
 * Lina Sitz
 
 * Rene Navarro Labastida (ESFM, Univ. Trieste)
