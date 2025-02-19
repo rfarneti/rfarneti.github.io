@@ -14,15 +14,16 @@ urlcolor: blue
 ## Journal Articles
 
 ### 2025
-* [66] Guarino M. V., J. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A.M. Tompkins,  E. Vignon,  C. Wright (2025), A long-term shift in flow regimes over the Antarctic Peninsula. Submitted. 
+* [67] Guarino M. V., J. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A.M. Tompkins,  E. Vignon,  C. Wright (2025), A long-term shift in flow regimes over the Antarctic Peninsula. Submitted. 
   
-* [65] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs. **Climate Dynamics**, Submitted.
+* [66] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs. **Climate Dynamics**, Submitted.
 
-* [64] Hu, A., I. Richter, Y. Okumura, N. Burls, N. Keenlyside, R. Parfitt, K. Bellomo, A. Bellucci, *R. Farneti*, A. Fedorov, B. Ferster, C. He, W. Kim, Q. Li, D. Matei (2025), Unraveling the Complexity of Global Climate Dynamics: ENSO, AMOC, and tropical basin Interactions. **OLAR**, Submitted.
+* [65] Hu, A., I. Richter, Y. Okumura, N. Burls, N. Keenlyside, R. Parfitt, K. Bellomo, A. Bellucci, *R. Farneti*, A. Fedorov, B. Ferster, C. He, W. Kim, Q. Li, D. Matei (2025), Unraveling the Complexity of Global Climate Dynamics: ENSO, AMOC, and tropical basin Interactions. **OLAR**, Submitted.
 
-* [63] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations. **Climate Dynamics**, Submitted.
+* [64] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations. **Climate Dynamics**, Submitted.
 
-* [62] Prigent, A., I. Richter, A. Storto, *R. Farneti*, R. A. Imbol Koungue, Y. Okumura, P. Chang (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. **Climate Dynamics**, Submitted.
+* [63] Prigent, A., I. Richter, A. Storto, *R. Farneti*, R. A. Imbol Koungue, Y. Okumura, P. Chang (2025), Intercomparison of ocean reanalyses for interannual ocean temperature variability in the tropical Atlantic. **Climate Dynamics**, Submitted.
+* [62] Arbic, B. K. et al. (2025), [The Coastal Ocean Environment Summer School In Nigeria and Ghana: The value of long-term, sustained capacity sharing](https://doi.org/10.5670/oceanog.2025.116). **Oceanography**, 38(1).
 
 ### 2024
 * [61] Reis, R. A. do N., Justino F., de Mendonça L. F. F., *R. Farneti*, Tonelli M., Machado J. P., Lindemann D. da S. (2025), [Representation of Dense Shelf Water formation by global oceanic reanalyses](https://doi.org/10.33265/polar.v43.9732). **Polar Research**, 43, 
