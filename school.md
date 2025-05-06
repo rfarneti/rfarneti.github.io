@@ -1,5 +1,5 @@
 ---
-permalink: /school/
+permalink: /ClimateDynamicsSchool/
 title: "Climate Dynamics School"
 author_profile: true
 redirect_from: 
