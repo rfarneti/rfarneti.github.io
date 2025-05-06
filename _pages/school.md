@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2024
 [5th Summer School on Theory, Mechanisms and Hierarchical Modelling of Climate Dynamics:
-'Convection and Clouds](https://indico.ictp.it/event/10490/)
+'Convection and Clouds'](https://indico.ictp.it/event/10490/)
 
 ## 2023
 [4th Summer School on Theory, Mechanisms and Hierarchical Modelling of Climate Dynamics:
