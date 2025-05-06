@@ -7,7 +7,7 @@ author_profile: true
 
 
 [6th ICTP Summer School on Theory, Mechanisms and Hierarchical Modelling of Climate Dynamics:
-Artificial Intelligence and Climate Modelling']{https://indico.ictp.it/event/10832/overview}
+Artificial Intelligence and Climate Modelling'](https://indico.ictp.it/event/10832/overview)
 ======
 
 
