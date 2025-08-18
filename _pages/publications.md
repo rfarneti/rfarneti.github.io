@@ -14,7 +14,8 @@ urlcolor: blue
 ## Journal Articles
 
 ### 2025
-* [67] Guarino M. V., J. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A.M. Tompkins,  E. Vignon,  C. Wright (2025), A long-term shift in flow regimes over the Antarctic Peninsula. Submitted. 
+* [68] Guarino M. V., J. K. Ridley, *R. Farneti*, F. Kucharski, A. M. Tompkins (2025), Southern Hemisphere sea ice response to different flow regimes over the Antarctic Peninsula. Submitted.
+* [67] Guarino M. V., J. K. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A. M. Tompkins,  E. Vignon,  C. Wright (2025), A long-term shift in flow regimes over the Antarctic Peninsula. Submitted. 
 * [66] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations. **Climate Dynamics**, Submitted.
 * [65] Prigent, A., I. Richter, A. Storto, *R. Farneti*, R. A. Imbol Koungue, Y. Okumura, P. Chang (2025), Interannual variability of upper ocean temperature in the tropical Atlantic: an ocean reanalysis intercomparison. **Climate Dynamics**, In press.
 * [64] Hu, A., I. Richter, Y. Okumura, N. Burls, N. Keenlyside, R. Parfitt, K. Bellomo, A. Bellucci, *R. Farneti*, A. Fedorov, B. Ferster, C. He, W. Kim, Q. Li, D. Matei (2025), [Complexity of the Global Climate Dynamics: Interactions among ENSO, AMOC, and tropical basins](https://spj.science.org/doi/abs/10.34133/olar.0096). **OLAR**, DOI: 10.34133/olar.0096.
