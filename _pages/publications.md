@@ -20,7 +20,7 @@ urlcolor: blue
   
 * [65] Prigent, A., I. Richter, A. Storto, *R. Farneti*, R. A. Imbol Koungue, Y. Okumura, P. Chang (2025), [Interannual variability of upper ocean temperature in the tropical Atlantic: an ocean reanalysis intercomparison](https://link.springer.com/article/10.1007/s00382-025-07820-7). **Climate Dynamics**, 63, 339. https://doi.org/10.1007/s00382-025-07820-7.
 * [64] Hu, A., I. Richter, Y. Okumura, N. Burls, N. Keenlyside, R. Parfitt, K. Bellomo, A. Bellucci, *R. Farneti*, A. Fedorov, B. Ferster, C. He, W. Kim, Q. Li, D. Matei (2025), [Complexity of the Global Climate Dynamics: Interactions among ENSO, AMOC, and tropical basins](https://spj.science.org/doi/abs/10.34133/olar.0096). **OLAR**, DOI: 10.34133/olar.0096.
-* [63] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), [Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs](https://link.springer.com/article/10.1007/s00382-025-07685-w). **Climate Dynamics**,  63 (4), 200.
+* [63] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), [Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs](https://link.springer.com/article/10.1007/s00382-025-07685-w). **Climate Dynamics**,  63, 200.
 * [62] Arbic, B. K. et al. (2025), [The Coastal Ocean Environment Summer School In Nigeria and Ghana: The value of long-term, sustained capacity sharing](https://doi.org/10.5670/oceanog.2025.116). **Oceanography**, 38(1).
 
 ### 2024
