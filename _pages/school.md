@@ -5,9 +5,13 @@ author_profile: true
 
 ---
 
+## 2026
+[7th Summer School on Theory, Mechanisms and Hierarchical Modelling of Climate Dynamics:
+'Estimating Ocean Transports: Single Sections, Box Models and Reanalysis Products'](https://indico.ictp.it/event/11150/)
+
 ## 2025
 [6th Summer School on Theory, Mechanisms and Hierarchical Modelling of Climate Dynamics:
-'Artificial Intelligence and Climate Modelling'](https://indico.ictp.it/event/10832/overview)
+'Artificial Intelligence and Climate Modelling'](https://indico.ictp.it/event/10832/)
 
 ## 2024
 [5th Summer School on Theory, Mechanisms and Hierarchical Modelling of Climate Dynamics:
