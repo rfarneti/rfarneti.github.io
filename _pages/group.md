@@ -10,17 +10,13 @@ author_profile: true
 ## Current postdocs & PhD students
 ___
 
-* Arthur Prigent (postdoc)
-
 * Zihan Song (PhD student)
 
-* Natalia Tilinina (MHPC student)
-
-* Trishneeta Bhattacharya (STEP PhD student)
 
 ## ICTP Associates
 ___
 
+* Fabricio S C Oliveira (FURG, Brasil)
 * Kunal Chakraborty (INCOIS, India)
 * Suneet Dwivedi (Univeristy of Allahabad, India)
 * Hailong Liu (China)
@@ -28,9 +24,12 @@ ___
 ## Past postdocs & PhD students
 ___
 
+* Arthur Prigent 
 * Maria Vittoria Guarino
 * Lina Sitz
 
+* Natalia Tilinina (MHPC student)
+* Trishneeta Bhattacharya (STEP PhD student)
 * Rene Navarro Labastida (ESFM, Univ. Trieste)
 * Rafael Reis (STEP, U. Federal Vicosa, Brazil)
 * Sandeep Narayanasetti (IITM, Pune, India)
