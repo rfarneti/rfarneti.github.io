@@ -31,7 +31,7 @@ please contact me at
 
 * **[7th Summer School on Theory, Mechanisms and Hierarchical Modelling of Climate Dynamics: Estimating Ocean Transports: Single Sections, Box Models and Reanalysis Products](https://indico.ictp.it/event/11150)**(29 June-11 July, 2026)
   
-* 
+* **[4th COMMODORE Workshop on Advancing Ocean Modelling: Bridging Theory, Computation, Scales, and Applications](https://indico.ictp.it/event/11163)**(21-25 September, 2026)
   
 
 
