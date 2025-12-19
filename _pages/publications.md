@@ -23,9 +23,9 @@ urlcolor: blue
 * [64] Hu, A., I. Richter, Y. Okumura, N. Burls, N. Keenlyside, R. Parfitt, K. Bellomo, A. Bellucci, *R. Farneti*, A. Fedorov, B. Ferster, C. He, W. Kim, Q. Li, D. Matei (2025), [Unraveling the complexity of global climate dynamics: Interactions among ENSO, AMOC, and tropical basins](https://spj.science.org/doi/abs/10.34133/olar.0096). **OLAR**, 4:0096.DOI:10.34133/olar.0096.
 * [63] Ghoshal P. K., A.P. Joshi, K. Chakraborty, *R. Farneti*, V. Valsala (2025), [Future changes in air temperature and precipitation over the Indian sub-continent using downscaled and bias-corrected CMIP6 Earth System Model outputs](https://link.springer.com/article/10.1007/s00382-025-07685-w). **Clim. Dyn.**,  63, 200.
 * [62] Arbic, B. K. et al. (2025), [The Coastal Ocean Environment Summer School In Nigeria and Ghana: The value of long-term, sustained capacity sharing](https://doi.org/10.5670/oceanog.2025.116). **Oceanography**, 38(1).
+* [61] Reis, R. A. do N., Justino F., de Mendonça L. F. F., *R. Farneti*, Tonelli M., Machado J. P., Lindemann D. da S. (2025), [Representation of Dense Shelf Water formation by global oceanic reanalyses](https://doi.org/10.33265/polar.v43.9732). **Polar Research**, 43.
 
-### 2024
-* [61] Reis, R. A. do N., Justino F., de Mendonça L. F. F., *R. Farneti*, Tonelli M., Machado J. P., Lindemann D. da S. (2025), [Representation of Dense Shelf Water formation by global oceanic reanalyses](https://doi.org/10.33265/polar.v43.9732). **Polar Research**, 43, 
+### 2024   
 * [60] Prigent, A., *R. Farneti* (2024), [An assessment of equatorial Atlantic interannual variability in Ocean Model Intercomparison Project (OMIP) simulations](https://os.copernicus.org/articles/20/1067/2024/). **Ocean Sciences**, 20, 1067-1086, 2024.
 * [59] Arumi-Planas, C., S. Dong, R. Perez, M. Harrison, *R. Farneti*, A. Hernandez-Guerra (2024), [A multi-data set analysis of the freshwater transport by the Atlantic Meridional Overturning Circulation at nominally 34.5S](http://doi.org/10.1029/2023JC020558). **JGR: Oceans**, 129, e2023JC020558.
 * [58] Molteni, F., F. Kucharski, *R. Farneti* (2024), [Multi-decadal pacemaker simulations with an intermediate-complexity climate model](https://doi.org/10.5194/wcd-5-293-2024). **Weather Clim. Dynam.**, 5, 293-322.
