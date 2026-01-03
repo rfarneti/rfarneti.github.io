@@ -15,7 +15,7 @@ urlcolor: blue
 
 ### 2026
 * [68] Guarino M. V., J. K. Ridley, *R. Farneti*, F. Kucharski, A. M. Tompkins (2025), Southern Hemisphere sea ice response to different flow regimes over the Antarctic Peninsula. **Clim. Dyn.** Submitted.
-* [67] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations. **Clim. Dyn.**, 64, 29. https://doi.org/10.1007/s00382-025-07906-2.
+* [67] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), [Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations](https://link.springer.com/article/10.1007/s00382-025-07906-2). **Clim. Dyn.**, 64, 29. https://doi.org/10.1007/s00382-025-07906-2.
   
 ### 2025
 * [66] Guarino M. V., J. K. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A. M. Tompkins,  E. Vignon,  C. Wright (2025), [A long-term shift in flow regimes over the Antarctic Peninsula](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0330.1/JCLI-D-25-0330.1.xml). **J. Climate**. https://doi.org/10.1175/JCLI-D-25-0330.1.
