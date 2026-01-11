@@ -14,9 +14,9 @@ urlcolor: blue
 ## Journal Articles
 
 ### 2026
-* [68] Guarino M. V., J. K. Ridley, *R. Farneti*, F. Kucharski, A. M. Tompkins (2025), Southern Hemisphere sea ice response to different flow regimes over the Antarctic Peninsula. **Clim. Dyn.** Submitted.
-* [67] Guarino M. V., J. K. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A. M. Tompkins,  E. Vignon,  C. Wright (2025), [A long-term shift in flow regimes over the Antarctic Peninsula](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0330.1/JCLI-D-25-0330.1.xml). **J. Climate**, 39 (2), 749-767.
-* [66] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2025), [Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations](https://link.springer.com/article/10.1007/s00382-025-07906-2). **Clim. Dyn.**, 64, 29.
+* [68] Guarino M. V., J. K. Ridley, *R. Farneti*, F. Kucharski, A. M. Tompkins (2026), Southern Hemisphere sea ice response to different flow regimes over the Antarctic Peninsula. **Clim. Dyn.** Submitted.
+* [67] Guarino M. V., J. K. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A. M. Tompkins,  E. Vignon,  C. Wright (2026), [A long-term shift in flow regimes over the Antarctic Peninsula](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0330.1/JCLI-D-25-0330.1.xml). **J. Climate**, 39 (2), 749-767.
+* [66] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2026), [Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations](https://link.springer.com/article/10.1007/s00382-025-07906-2). **Clim. Dyn.**, 64, 29.
   
 ### 2025
 * [65] Prigent, A., I. Richter, A. Storto, *R. Farneti*, R. A. Imbol Koungue, Y. Okumura, P. Chang (2025), [Interannual variability of upper ocean temperature in the tropical Atlantic: an ocean reanalysis intercomparison](https://link.springer.com/article/10.1007/s00382-025-07820-7). **Clim. Dyn.**, 63, 339.
