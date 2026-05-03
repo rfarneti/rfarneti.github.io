@@ -14,7 +14,14 @@ urlcolor: blue
 ## Journal Articles
 
 ### 2026
+* [71] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. **GRL** Submitted.
+
+* [70] Dwivedi, S., *R. Farneti*, F. Kucharski, Song, Z. H. (2026), Impacts of idealized Antarctic meltwater on the Indian Summer Monsoon Rainfall. **Tellus** Submitted.
+
+* [69] Prigent, A, *R. Farneti*, M. Manizza, R.~A. Imbol Koungue (2026), Chlorophyll-a concentration effects on equatorial Atlantic Ocean mean-state and interannual variability. **Ocean Science** Submitted.
+
 * [68] Guarino M. V., J. K. Ridley, *R. Farneti*, F. Kucharski, A. M. Tompkins (2026), Southern Hemisphere sea ice response to different flow regimes over the Antarctic Peninsula. **Clim. Dyn.** Submitted.
+  
 * [67] Guarino M. V., J. K. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A. M. Tompkins,  E. Vignon,  C. Wright (2026), [A long-term shift in flow regimes over the Antarctic Peninsula](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0330.1/JCLI-D-25-0330.1.xml). **J. Climate**, 39 (2), 749-767.
 * [66] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2026), [Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations](https://link.springer.com/article/10.1007/s00382-025-07906-2). **Clim. Dyn.**, 64, 29.
   
