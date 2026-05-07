@@ -21,7 +21,7 @@ urlcolor: blue
 
 * [70] Dwivedi, S., *R. Farneti*, F. Kucharski, Song, Z. H. (2026), Impacts of idealized Antarctic meltwater on the Indian Summer Monsoon Rainfall. **Tellus** Submitted.
 
-* [69] Prigent, A, *R. Farneti*, M. Manizza, R.~A. Imbol Koungue (2026), Chlorophyll-a concentration effects on equatorial Atlantic Ocean mean-state and interannual variability. **Ocean Science** Submitted.
+* [69] Prigent, A, *R. Farneti*, M. Manizza, R. A. Imbol Koungue (2026), Chlorophyll-a concentration effects on equatorial Atlantic Ocean mean-state and interannual variability. **Ocean Science** Submitted.
 
 * [68] Guarino M. V., J. K. Ridley, *R. Farneti*, F. Kucharski, A. M. Tompkins (2026), Southern Hemisphere sea ice response to different flow regimes over the Antarctic Peninsula. **Clim. Dyn.** Submitted.
   
