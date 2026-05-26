@@ -15,7 +15,7 @@ urlcolor: blue
 
 ### 2026
 
-* [72] *Farneti, R.*, Z. Song (2026), Transient response of the Atlantic Meridional Overturning Circulation and Antarctic Circumpolar Current to Antarctic meltwater release. Submitted.
+* [72] *Farneti, R.*, Z. Song (2026), [Transient response of the Atlantic Meridional Overturning Circulation and Antarctic Circumpolar Current to Antarctic meltwater release](https://www.researchsquare.com/article/rs-9810860/latest). Submitted.
   
 * [71] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. **GRL** Submitted.
 
