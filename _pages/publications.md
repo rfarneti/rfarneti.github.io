@@ -17,9 +17,9 @@ urlcolor: blue
 
 * [72] *Farneti, R.*, Z. Song (2026), [Transient response of the Atlantic Meridional Overturning Circulation and Antarctic Circumpolar Current to Antarctic meltwater release](https://www.researchsquare.com/article/rs-9810860/latest). Submitted.
   
-* [71] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. **GRL** Submitted.
+* [71] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. Submitted.
 
-* [70] Dwivedi, S., *R. Farneti*, F. Kucharski, Song, Z. H. (2026), Impacts of idealized Antarctic meltwater on the Indian Summer Monsoon Rainfall. **Tellus** Submitted.
+* [70] Dwivedi, S., *R. Farneti*, F. Kucharski, Song, Z. H. (2026), Impacts of idealized Antarctic meltwater on the Indian Summer Monsoon Rainfall. Submitted.
 
 * [69] Prigent, A, *R. Farneti*, M. Manizza, R. A. Imbol Koungue (2026), [Chlorophyll-a concentration effects on equatorial Atlantic Ocean mean-state and interannual variability](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2021/). **Ocean Science** Submitted.
 
