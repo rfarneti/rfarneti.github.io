@@ -19,7 +19,7 @@ urlcolor: blue
   
 * [71] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. Submitted.
 
-* [70] Dwivedi, S., *R. Farneti*, F. Kucharski, Song, Z. H. (2026), Impacts of idealized Antarctic meltwater on the Indian Summer Monsoon Rainfall. Submitted.
+* [70] Dwivedi, S., *R. Farneti*, F. Kucharski, Song, Z. (2026), Impacts of idealized Antarctic meltwater on the Indian Summer Monsoon Rainfall. Submitted.
 
 * [69] Prigent, A, *R. Farneti*, M. Manizza, R. A. Imbol Koungue (2026), [Chlorophyll-a concentration effects on equatorial Atlantic Ocean mean-state and interannual variability](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2021/). **Ocean Science** Submitted.
 
