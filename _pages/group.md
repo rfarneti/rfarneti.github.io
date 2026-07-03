@@ -24,15 +24,14 @@ ___
 ## Past postdocs & PhD students
 ___
 
-* Arthur Prigent 
-* Maria Vittoria Guarino
-* Lina Sitz
-
+* Arthur Prigent (Postdoc)
+* Maria Vittoria Guarino (Postdoc)
+* Lina Sitz (Postdoc)
 * Natalia Tilinina (MHPC student)
 * Trishneeta Bhattacharya (STEP PhD student)
-* Rene Navarro Labastida (ESFM, Univ. Trieste)
-* Rafael Reis (STEP, U. Federal Vicosa, Brazil)
-* Sandeep Narayanasetti (IITM, Pune, India)
-* Giorgio Graffino (ESFM, Univ. Trieste)
-* Marco Reale (ESFM, Univ. Trieste)
+* Rene Navarro Labastida (ESFM PhD student, Univ. Trieste)
+* Rafael Reis (STEP PhD student, U. Federal Vicosa, Brazil)
+* Sandeep Narayanasetti (STEP PhD student, IITM, Pune, India)
+* Giorgio Graffino (ESFM PhD student, Univ. Trieste)
+* Marco Reale (ESFM PhD student, Univ. Trieste)
 
