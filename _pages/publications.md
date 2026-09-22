@@ -15,9 +15,9 @@ urlcolor: blue
 
 ### 2026
 
-* [73] Z. Song, *R. Farneti* (2026), Coupled climate pathways redistribute Antarctic meltwater globally, Submitted.
-* [72] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. Submitted.
-* [71] Dwivedi, S., *R. Farneti*, F. Kucharski, Z. Song (2026), Antarctic meltwater discharge impacts the Indian Summer Monsoon Rainfall. Submitted to **Environ. Res. Commun.**.
+* [73] Z. Song, *R. Farneti* (2026), Coupled climate pathways redistribute Antarctic meltwater globally, Submitted to **Sci. Adv.**
+* [72] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. Submitted to **GRL**
+* [71] Dwivedi, S., *R. Farneti*, F. Kucharski, Z. Song (2026), Antarctic meltwater discharge impacts the Indian Summer Monsoon Rainfall. Submitted to **Environ. Res. Commun.**
 * [70] *Farneti, R.*, Z. Song (2026), [Transient response of the Atlantic Meridional Overturning Circulation and Antarctic Circumpolar Current to Antarctic meltwater release](https://www.researchsquare.com/article/rs-9810860/latest). **J. Phys. Oceanogr.**, Submitted.
 * [69] Prigent, A, *R. Farneti*, M. Manizza, R. A. Imbol Koungue (2026), [Chlorophyll-a concentration effects on equatorial Atlantic Ocean mean-state and interannual variability](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2021/). **Ocean Science**, xx, xx.
 * [68] Guarino M. V., J. K. Ridley, *R. Farneti*, F. Kucharski, A. M. Tompkins (2026), [Southern Hemisphere sea ice response to different flow regimes over the Antarctic Peninsula](https://link.springer.com/article/10.1007/s00382-026-08350-6). **Clim. Dyn.**, 64, 410.
