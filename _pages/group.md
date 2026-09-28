@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+## Principal Investigator
+
+* Riccardo Farneti
+
+  
 ## Current postdocs & PhD students
 ___
 
