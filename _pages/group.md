@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group (past and present)"
+title: "The Ocean Group (past and present)"
 permalink: /group/
 author_profile: true
 ---
