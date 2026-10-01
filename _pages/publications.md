@@ -15,11 +15,11 @@ urlcolor: blue
 
 ### 2026
 
-* [73] Z. Song, *R. Farneti* (2026), Coupled climate pathways redistribute Antarctic meltwater globally, Submitted to **Sci. Adv.**
-* [72] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. Submitted to **GRL**
-* [71] Dwivedi, S., *R. Farneti*, F. Kucharski, Z. Song (2026), Antarctic meltwater discharge impacts the Indian Summer Monsoon Rainfall. Submitted to **Environ. Res. Commun.**
-* [70] *Farneti, R.*, Z. Song (2026), [Transient response of the Atlantic Meridional Overturning Circulation and Antarctic Circumpolar Current to Antarctic meltwater release](https://www.researchsquare.com/article/rs-9810860/latest). **J. Phys. Oceanogr.**, Submitted.
-* [69] Prigent, A, *R. Farneti*, M. Manizza, R. A. Imbol Koungue (2026), [Chlorophyll-a concentration effects on equatorial Atlantic Ocean mean-state and interannual variability](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2021/). **Ocean Science**, 22, 2973–2991.
+* [73] *Farneti, R.*, Z. Song (2026), [Transient response of the Atlantic Meridional Overturning Circulation and Antarctic Circumpolar Current to Antarctic meltwater release](https://www.researchsquare.com/article/rs-9810860/latest). **J. Phys. Oceanogr.**, In revision.
+* [72] Z. Song, *R. Farneti* (2026), Coupled climate pathways redistribute Antarctic meltwater globally. **Sci. Adv.**, In revision.
+* [71] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. **GRL**, In revision.
+* [70] Dwivedi, S., *R. Farneti*, F. Kucharski, Z. Song (2026), Antarctic meltwater discharge impacts the Indian Summer Monsoon Rainfall. **Environ. Res. Commun.**, In revision.
+* [69] Prigent, A, *R. Farneti*, M. Manizza, R. A. Imbol Koungue (2026), [Chlorophyll-a concentration effects on equatorial Atlantic Ocean mean-state and interannual variability](https://os.copernicus.org/articles/22/2973/2026/). **Ocean Science**, 22, 2973–2991.
 * [68] Guarino M. V., J. K. Ridley, *R. Farneti*, F. Kucharski, A. M. Tompkins (2026), [Southern Hemisphere sea ice response to different flow regimes over the Antarctic Peninsula](https://link.springer.com/article/10.1007/s00382-026-08350-6). **Clim. Dyn.**, 64, 410.
 * [67] Guarino M. V., J. K. Ridley,  S. Colwell,  *R. Farneti*,  G. Giuliani,  H. Hersbach,  N. Hindley,  J. King,  F. Kucharski,  I. Polichtchouk,  A. M. Tompkins,  E. Vignon,  C. Wright (2026), [A long-term shift in flow regimes over the Antarctic Peninsula](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0330.1/JCLI-D-25-0330.1.xml). **J. Climate**, 39 (2), 749-767.
 * [66] Prigent, A., *R. Farneti*, F. Kucharski, A. Capotondi, J. F. Lubbecke (2026), [Impact of wind forcing on the equatorial Pacific interannual variability in Ocean Model Intercomparison Project (OMIP) simulations](https://link.springer.com/article/10.1007/s00382-025-07906-2). **Clim. Dyn.**, 64, 29.
