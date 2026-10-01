@@ -10,7 +10,7 @@ redirect_from:
 I am a physical oceanographer interested in the role of the ocean in climate variability, predictability and change. For my research, I use and develop a suite of ocean and coupled climate models mainly based on the [GFDL/MOM](https://github.com/mom-ocean) model. My research spans a broad range of topics including 
 
 * Southern Ocean physics and dynamics
-* Atlantic Ocean interannual to decadal variability
+* Atlantic Meridional Overturning Circulation and its variability
 * Pacific decadal variability
 * regional dynamics of the Mediterranean and Indian Ocean. 
 
