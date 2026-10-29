@@ -15,7 +15,7 @@ urlcolor: blue
 
 ### 2026
 
-* [73] *Farneti, R.*, Z. Song (2026), [Transient response of the Atlantic Meridional Overturning Circulation and Antarctic Circumpolar Current to Antarctic meltwater release](https://www.researchsquare.com/article/rs-9810860/latest). **J. Phys. Oceanogr.**, In revision.
+* [73] *Farneti, R.*, Z. Song (2026), [Transient response of the Meridional Overturning Circulation and Antarctic Circumpolar Current to Antarctic meltwater release](https://www.researchsquare.com/article/rs-9810860/latest). **J. Phys. Oceanogr.**, In revision.
 * [72] Z. Song, *R. Farneti* (2026), Coupled climate pathways redistribute Antarctic meltwater globally. **Sci. Adv.**, In revision.
 * [71] Bhattacharya, T., P. C. M. Munzil, *R. Farneti* (2026), Dynamical Characterization of Mesoscale Eddies in the North Indian Ocean and their Influence on Chlorophyll-a. **GRL**, In revision.
 * [70] Dwivedi, S., *R. Farneti*, F. Kucharski, Z. Song (2026), Antarctic meltwater discharge impacts the Indian Summer Monsoon Rainfall. **Environ. Res. Commun.**, In press.
