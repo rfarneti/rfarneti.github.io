@@ -15,7 +15,7 @@ author_profile: true
 ## Current postdocs & PhD students
 ___
 
-* Zihan Song
+* [Zihan Song]{https://www.ictp.it/member/zihan-song-0}
 
 
 ## ICTP Associates
