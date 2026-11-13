@@ -36,7 +36,7 @@ ___
 * [Trishneeta Bhattacharya](https://scholar.google.com/citations?user=mSnkOkwAAAAJ&hl=en) (STEP PhD student)
 * Rene Navarro Labastida (ESFM PhD student, Univ. Trieste)
 * Rafael Reis (STEP PhD student, U. Federal Vicosa, Brazil)
-* Sandeep Narayanasetti (STEP PhD student, IITM, Pune, India)
+* [Sandeep Narayanasetti](https://www.tropmet.res.in/133-Sandeep%20%20Narayanasetti-scientist_detail) (STEP PhD student, IITM, Pune, India)
 * Giorgio Graffino (ESFM PhD student, Univ. Trieste)
-* Marco Reale (ESFM PhD student, Univ. Trieste)
+* [Marco Reale](https://sites.google.com/view/marcoreale82/) (ESFM PhD student, Univ. Trieste)
 
