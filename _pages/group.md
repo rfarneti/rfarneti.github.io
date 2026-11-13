@@ -15,7 +15,7 @@ author_profile: true
 ## Current postdocs & PhD students
 ___
 
-* [Zihan Song]{https://www.ictp.it/member/zihan-song-0}
+* [Zihan Song](https://www.ictp.it/member/zihan-song-0)
 
 
 ## ICTP Associates
@@ -29,8 +29,8 @@ ___
 ## Past postdocs & PhD students
 ___
 
-* Arthur Prigent (Postdoc)
-* Maria Vittoria Guarino (Postdoc)
+* [Arthur Prigent](https://aprig.github.io/arthurprigent/) (Postdoc)
+* [Maria Vittoria Guarino](https://maviguarino.wixsite.com/website) (Postdoc)
 * Lina Sitz (Postdoc)
 * Natalia Tilinina (MHPC student)
 * Trishneeta Bhattacharya (STEP PhD student)
