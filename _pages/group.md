@@ -34,7 +34,7 @@ ___
 * Lina Sitz (Postdoc)
 * [Natalia Tilinina](https://scholar.google.com/citations?user=N3g-3TIAAAAJ&hl=en) (MHPC student)
 * [Trishneeta Bhattacharya](https://scholar.google.com/citations?user=mSnkOkwAAAAJ&hl=en) (STEP PhD student)
-* Rene Navarro Labastida (ESFM PhD student, Univ. Trieste)
+* [Rene Navarro Labastida](https://www.smhi.se/en/research/our-team/search-for-employees/rene-gabriel-navarro-labastida) (ESFM PhD student, Univ. Trieste)
 * Rafael Reis (STEP PhD student, U. Federal Vicosa, Brazil)
 * [Sandeep Narayanasetti](https://www.tropmet.res.in/133-Sandeep%20%20Narayanasetti-scientist_detail) (STEP PhD student, IITM, Pune, India)
 * Giorgio Graffino (ESFM PhD student, Univ. Trieste)
